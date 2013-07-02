@@ -37,8 +37,8 @@ To display a listing in the widget area, use a View Widget instead. (Included in
 * None. Translations welcome.
 
 == Installation ==
-1. Upload the `wp-views-view-template-widget` folder to `/wp-content/plugins/`
-2. Activate the plugin (View Template Widget for Toolset Types & Views) through the 'Plugins' menu in WordPress
+1. Upload the `view-template-widget-for-toolset-types-views` folder to `/wp-content/plugins/`
+2. Activate the plugin (View Template Widget for Toolset Views) through the 'Plugins' menu in WordPress
 3. Add a Views Template widget to your site.
 
 == Frequently Asked Questions ==
